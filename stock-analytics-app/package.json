@@ -2,7 +2,7 @@
   "name": "stock-analytics-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://20.244.56.144",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
